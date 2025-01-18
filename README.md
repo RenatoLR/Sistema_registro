@@ -7,4 +7,3 @@ Para ejecutar el sistema, debemos ejecutar:
 !!!npm install react!!!
 
 Sistema de registro 2
-Renato
